@@ -1,0 +1,17 @@
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/obj/Debug/Assembly-CSharp.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/UnityEngine.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/UnityEditor.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tim/MYprojects/uroul2d/uroul2d/Temp/bin/Debug/Mono.Cecil.Mdb.dll
